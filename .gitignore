@@ -1,21 +1,3 @@
-node_modules/
-
-
-# Created by https://www.gitignore.io/api/osx,meteorjs
-
-### MeteorJS ###
-# default meteor build and local packages
-.meteor/local
-
-# meteor settings file
-settings.json
-
-# meteor build output files
-*.tar.gz
-
-# general swp files from vim
-*.swp
-
 ### OSX ###
 *.DS_Store
 .AppleDouble
