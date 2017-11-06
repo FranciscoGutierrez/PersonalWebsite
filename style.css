@@ -92,7 +92,7 @@ a:active {
 
 .badge {
   display: flex;
-  align-self: baseline;
+  align-items: center;
 }
 
 .badge .fa {
