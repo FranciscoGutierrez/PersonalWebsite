@@ -1,0 +1,58 @@
+body {
+  font-family: 'Merriweather', serif;
+  display: flex;
+  flex-direction: column;
+  cursor: default;
+}
+
+.title {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 100;
+  font-size: 32px;
+}
+
+.details {
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+  font-weight: 300;
+  color: #37474F;
+}
+
+.text {
+  font-family: 'Merriweather', serif;
+  font-size: 14px;
+  font-weight: 300;
+  width: 600px;
+}
+
+.profilepic {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border: 5px solid #EEEEEE;
+}
+
+.contact {
+  display: flex;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+  margin-left:  20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  color: #00BCD4;
+}
+
+.media {
+  font-weight: 100;
+  margin-top: 25px;
+  border-top: 1px solid #c1c1c1;
+  padding-top: 4px;
+}
