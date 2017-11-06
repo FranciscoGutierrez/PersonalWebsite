@@ -33,6 +33,7 @@ body {
   border-radius: 50%;
   width: 150px;
   height: 150px;
+  align-self: flex-end;
   /*border: 5px solid #80D8FF;*/
 }
 
@@ -50,11 +51,13 @@ body {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 28px;
   margin: 0;
   margin-bottom: 4px;
   margin-top: 4px;
   color: #00BCD4;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 100;
 }
 
 .media {
