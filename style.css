@@ -115,5 +115,11 @@ a:active {
 }
 
 .pub .fa {
-  margin: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-top: 2px;
+}
+
+.pub p {
+  margin: 0;
 }
