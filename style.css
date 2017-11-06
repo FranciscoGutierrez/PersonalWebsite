@@ -71,12 +71,14 @@ h1 {
   font-weight: 100;
   margin-top: 24px;
   padding-top: 4px;
+  color: #c1c1c1;
 }
 
 .updated {
   font-size: 12px;
-  color: #414141;
+  color: #a1a1a1;
   margin-top: 4px;
+  font-style: italic;
 }
 
 
@@ -103,5 +105,15 @@ a:active {
 
 .badge .fa {
   color: #424242;
+  margin: 8px;
+}
+
+.pub {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.pub .fa {
   margin: 8px;
 }
