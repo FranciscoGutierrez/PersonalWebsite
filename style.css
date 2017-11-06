@@ -23,9 +23,10 @@ body {
   font-family: 'Merriweather', serif;
   font-size: 15px;
   font-weight: 300;
-  width: 640px;
   color: #424242;
   margin-top: 16px;
+  width: 100%;
+  max-width: 640px;
 }
 
 .profilepic {
@@ -38,7 +39,9 @@ body {
 .contact {
   display: flex;
   justify-content: space-between;
-  width: 640px;
+  width: 100%;
+  max-width: 640px;
+  flex-wrap: wrap;
 }
 
 .contact-details {
