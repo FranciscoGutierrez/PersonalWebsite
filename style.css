@@ -91,6 +91,7 @@ a:active {
 }
 
 .badge {
+  display: flex;
   align-self: baseline;
 }
 
