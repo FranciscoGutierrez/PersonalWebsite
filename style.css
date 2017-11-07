@@ -31,7 +31,6 @@ body {
   border-radius: 50%;
   width: 150px;
   height: 150px;
-  align-self: flex-end;
   /*border: 5px solid #80D8FF;*/
 }
 
@@ -83,19 +82,19 @@ h1 {
 
 
 a:link {
-    color: #03A9F4;
+  color: #03A9F4;
 }
 
 a:visited {
-    color: #03A9F4;
+  color: #03A9F4;
 }
 
 a:hover {
-    color: #4DD0E1;
+  color: #4DD0E1;
 }
 
 a:active {
-    color: #03A9F4;
+  color: #03A9F4;
 }
 
 .badge {
@@ -120,6 +119,12 @@ a:active {
   margin-top: 2px;
 }
 
-.pub p {
+p {
   margin: 0;
+}
+
+.pic-container {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
 }
