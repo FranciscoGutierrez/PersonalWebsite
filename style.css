@@ -10,6 +10,7 @@ body {
   font-family: 'Quicksand', sans-serif;
   font-weight: 100;
   font-size: 32px;
+  color: #00BCD4;
 }
 
 .details {
@@ -82,11 +83,11 @@ h1 {
 
 
 a:link {
-  color: #03A9F4;
+  color: #c761c7;
 }
 
 a:visited {
-  color: #03A9F4;
+  color: #c761c7;
 }
 
 a:hover {
@@ -94,7 +95,7 @@ a:hover {
 }
 
 a:active {
-  color: #03A9F4;
+  color: #c761c7;
 }
 
 .badge {
@@ -127,4 +128,17 @@ p {
   display: flex;
   flex-grow: 1;
   justify-content: center;
+}
+
+.tinypic {
+  height: 60px;
+}
+
+.portfolio-pics {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.preprint {
+  color: #c761c7;
 }
