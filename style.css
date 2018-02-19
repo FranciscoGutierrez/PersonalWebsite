@@ -1,9 +1,14 @@
+b {
+  font-weight: 600;
+  color: #ededed;
+}
 body {
   font-family: 'Libre Franklin', sans-serif;
   display: flex;
   flex-direction: column;
   cursor: default;
   align-items: center;
+  background: #282c34;
 }
 
 .title {
@@ -15,14 +20,14 @@ body {
 
 .details {
   font-size: 15px;
-  font-weight: 300;
-  color: #37474F;
+  font-weight: 100;
+  color: #eeeeee;
 }
 
 .content {
   font-size: 15px;
-  font-weight: 300;
-  color: #424242;
+  font-weight: 100;
+  color: #eeeeee;
   margin-top: 16px;
   width: 100%;
   max-width: 640px;
@@ -104,7 +109,7 @@ a:active {
 }
 
 .badge .fa {
-  color: #424242;
+  color: #ffff;
   margin: 8px;
 }
 
@@ -141,4 +146,9 @@ p {
 
 .preprint {
   color: #ce93d8;
+}
+
+.preprint:hover {
+  color: #00BCD4;
+  cursor: pointer;
 }
