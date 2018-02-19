@@ -83,11 +83,11 @@ h1 {
 
 
 a:link {
-  color: #c761c7;
+  color: #ce93d8;
 }
 
 a:visited {
-  color: #c761c7;
+  color: #ce93d8;
 }
 
 a:hover {
@@ -95,7 +95,7 @@ a:hover {
 }
 
 a:active {
-  color: #c761c7;
+  color: #ce93d8;
 }
 
 .badge {
@@ -140,5 +140,5 @@ p {
 }
 
 .preprint {
-  color: #c761c7;
+  color: #ce93d8;
 }
