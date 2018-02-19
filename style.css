@@ -1,6 +1,6 @@
 b {
   font-weight: 600;
-  color: #ededed;
+  color: #282c34;
 }
 body {
   font-family: 'Libre Franklin', sans-serif;
@@ -8,7 +8,7 @@ body {
   flex-direction: column;
   cursor: default;
   align-items: center;
-  background: #282c34;
+  background: #fafafa;
 }
 
 .title {
@@ -21,13 +21,13 @@ body {
 .details {
   font-size: 15px;
   font-weight: 100;
-  color: #eeeeee;
+  color: #282c34;
 }
 
 .content {
   font-size: 15px;
-  font-weight: 100;
-  color: #eeeeee;
+  font-weight: 300;
+  color: #282c34;
   margin-top: 16px;
   width: 100%;
   max-width: 640px;
@@ -88,11 +88,11 @@ h1 {
 
 
 a:link {
-  color: #f4b2ff;
+  color: #e589f5;
 }
 
 a:visited {
-  color: #f4b2ff;
+  color: #e589f5;
 }
 
 a:hover {
@@ -100,7 +100,7 @@ a:hover {
 }
 
 a:active {
-  color: #f4b2ff;
+  color: #e589f5;
 }
 
 .badge {
@@ -109,7 +109,7 @@ a:active {
 }
 
 .badge .fa {
-  color: #ffff;
+  color: #282c34;
   margin: 8px;
 }
 
@@ -145,7 +145,7 @@ p {
 }
 
 .preprint {
-  color: #f4b2ff;
+  color: #e589f5;
 }
 
 .preprint:hover {
