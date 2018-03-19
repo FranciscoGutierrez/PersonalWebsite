@@ -82,11 +82,11 @@ h1 {
 
 
 a:link {
-  color: #e589f5;
+  color: #f3adff;
 }
 
 a:visited {
-  color: #e589f5;
+  color: #f3adff;
 }
 
 a:hover {
@@ -94,7 +94,7 @@ a:hover {
 }
 
 a:active {
-  color: #e589f5;
+  color: #f3adff;
 }
 
 .sn-links-container {
@@ -140,11 +140,21 @@ p {
   flex-wrap: wrap;
 }
 
-.preprint {
-  color: #e589f5;
+.materials {
+  color: #f3adff;
+  font-size: 14px;
+  margin-left: 3px;
 }
 
-.preprint:hover {
+.materials .mat {
+}
+
+.mat:hover {
   color: #00BCD4;
   cursor: pointer;
+}
+
+.bibbase_group {
+  background-color: transparent;
+  padding: 5px 20px 5px;
 }
