@@ -131,13 +131,15 @@ p {
   justify-content: center;
 }
 
-.tinypic {
-  height: 60px;
-}
-
 .portfolio-pics {
   display: flex;
   flex-wrap: wrap;
+  width: 100%;
+}
+
+.portfolio-pics img {
+  height: 80px;
+  margin-right: 16px;
 }
 
 .materials {
@@ -157,4 +159,18 @@ p {
 .bibbase_group {
   background-color: transparent;
   padding: 5px 20px 5px;
+}
+
+.pub img {
+  min-width:  54px;
+  min-height: 54px;
+  max-width:  54px;
+  max-height: 54px;
+  margin: 4px;
+  border-radius: 50%;
+}
+
+.pub p {
+  font-size: 14px;
+  padding: 4px;
 }
