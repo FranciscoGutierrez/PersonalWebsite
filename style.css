@@ -57,6 +57,7 @@ body {
   flex-wrap: wrap-reverse;
   border-bottom: 1px solid #e1e1e1;
   padding-bottom: 8px;
+  margin-top: 0;
 }
 
 .contact-details {
