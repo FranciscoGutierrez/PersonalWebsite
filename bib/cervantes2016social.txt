@@ -1,0 +1,9 @@
+@article{cervantes2016social,
+  title={Social Metrics Applied to Smart Tourism},
+  author={Cervantes, Ofelia and Guti{\'e}rrez, Ernesto and Guti{\'e}rrez, Francisco and S{\'a}nchez, J Alfredo},
+  journal={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={4},
+  pages={117},
+  year={2016},
+  publisher={Copernicus GmbH}
+}
