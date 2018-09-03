@@ -43,10 +43,10 @@ body {
   padding-bottom: 24px;
   opacity: 0.9;
 
-  background-image: url('/figs/pattern.png');
+  /* background-image: url('/figs/pattern.png');
   background-color: rgba(255,255,255,0.8);
   background-blend-mode: hard-light;
-  -webkit-animation: Rotation 50s infinite linear;
+  -webkit-animation: Rotation 50s infinite linear; */
 }
 
 .profilepic {
