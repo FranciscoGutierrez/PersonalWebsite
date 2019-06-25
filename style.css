@@ -82,6 +82,11 @@ h1 {
   font-weight: 100;
 }
 
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  color: #a9a9a9;
+}
+
 .footnote{
   border-top: 1px solid #e1e1e1;
   font-weight: 100;
