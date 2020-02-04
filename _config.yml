@@ -25,8 +25,8 @@ timezone: 'Europe/Brussels'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://franciscogutierrez.github.io/PersonalWebsite/
-root: /PersonalWebsite/
+url: http://phd.franciscogutierrez.mx/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -110,4 +110,6 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/FranciscoGutierrez/PersonalWebsite.git
+  branch: gh-pages
