@@ -1,7 +1,0 @@
-@article{seipp2016research,
-  title={A research agenda for managing uncertainty in visual analytics},
-  author={Seipp, Karsten and Ochoa, Xavier and Guti{\'e}rrez, Francisco and Verbert, Katrien},
-  journal={Mensch und Computer 2016--Workshopband},
-  year={2016},
-  publisher={Gesellschaft f{\"u}r Informatik eV}
-}

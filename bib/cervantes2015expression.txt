@@ -1,8 +1,0 @@
-@inproceedings{cervantes2015expression,
-  title={Expression: Visualizing affective content from social streams},
-  author={Cervantes, Ofelia and Guti{\'e}rrez, Francisco and Guti{\'e}rrez, Ernesto and Castillo, Esteban and S{\'a}nchez, J Alfredo and Wan, Wanggen},
-  booktitle={Proceedings of the Latin American Conference on Human Computer Interaction},
-  pages={10},
-  year={2015},
-  organization={ACM}
-}

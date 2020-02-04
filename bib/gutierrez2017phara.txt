@@ -1,7 +1,0 @@
-@inproceedings{gutierrez2017phara,
-  title={PHARA: a personal health augmented reality assistant to support decision-making at grocery stores},
-  author={Guti{\'e}rrez, Francisco and Cardoso, Bruno and Verbert, Katrien},
-  booktitle={Second International Workshop on Health Recommender Systems},
-  pages={10},
-  year={2017}
-}

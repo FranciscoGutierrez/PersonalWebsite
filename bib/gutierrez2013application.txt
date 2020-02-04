@@ -1,8 +1,0 @@
-@inproceedings{gutierrez2013application,
-  title={Application of contextual QR codes to augmented reality technologies},
-  author={Guti{\'e}rrez, Francisco and Abud, M Antonieta and Vera, Fernando and S{\'a}nchez, J Alfredo},
-  booktitle={Electronics, Communications and Computing (CONIELECOMP), 2013 International Conference on},
-  pages={264--269},
-  year={2013},
-  organization={IEEE}
-}
