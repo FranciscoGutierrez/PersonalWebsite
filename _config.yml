@@ -10,7 +10,7 @@ description: '
       I am a postdoctoral researcher at <a href="http://augment.cs.kuleuven.be/" target="_blank">KU Leuven</a> working in the fields of <b>human–computer interaction</b> & <b>information visualization</b>.
       </p>
       My research focuses on <b>visual analytics</b> and <b>communication of uncertainty</b>. Mainly, I am interested in supporting non-expert users in everyday decision-making.
-      I also research how <b>augmented reality</b> can enhance the user experience on <b>decision support systems</b>.
+      Also, I am researching how <b>augmented reality</b> can enhance the user experience on <b>decision support systems</b>.
       <p>
       I follow a <b>design-centered</b> approach that includes a scientific focus on a <b>qualitative</b> and <b>quantitative</b> analysis of behavior.
       Usually you can find me designing, developing and evaluating interactive visualization systems.
@@ -37,7 +37,7 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
+archive_dir: blog
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
