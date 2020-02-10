@@ -2,7 +2,6 @@
 title: publications
 date: 2020-02-05 14:43:48
 ---
-
 # 2019
 
 ## Journal Articles

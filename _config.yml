@@ -5,19 +5,7 @@
 # Site
 title: 'Francisco Gutiérrez, PhD'
 subtitle: ''
-description: '
-      <p>
-      Currently, I am a postdoctoral researcher @ <a href="http://augment.cs.kuleuven.be/" target="_blank">KU Leuven</a> working on human–computer interaction & information visualization.
-      </p>
-      My research focuses on visual analytics and communication of uncertainty. Mainly, I am interested in supporting non-expert users in everyday decision-making.
-      Also, I am researching how augmented reality can enhance the user experience on decision support systems.
-      <p>
-      I follow a design-centered approach that includes a scientific focus on a qualitative and quantitative analysis of behavior.
-      Usually you can find me designing, developing and evaluating interactive visualization systems.
-      </p>
-      <p>
-      I also like sci-fi, photography, and lots of video games. I have a Youtube channel <a href="https://www.youtube.com/channel/UCi1DT3PIJdtbs6T2vRhnp7w">[TacoLab]</a> with my buddy <a href="http://svencharleer.com/" target="_blank">Sven Charleer</a>.
-      </p>'
+description: ''
 keywords:
 author: 'Francisco Gutiérrez'
 language: en
@@ -68,10 +56,10 @@ highlight:
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
+# index_generator:
+#   path: ''
+#   per_page: 10
+#   order_by: -date
 
 # Category & Tag
 default_category: uncategorized
