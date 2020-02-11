@@ -72,17 +72,18 @@
       <li class="icon">
         <a href="#"><i class="fas fa-bars fa-2x"></i></a>
       </li>
-       
+      
         <li><a href="/">Home</a></li>
-       
+      
         <li><a href="/blog/">blog</a></li>
-       
+      
         <li><a href="/publications/">publications</a></li>
-       
+      
         <li><a href="/cv/">cv</a></li>
       
     </ul>
   </div>
+  <link href="https://fonts.googleapis.com/css?family=Comfortaa:300&display=swap" rel="stylesheet">
 </header>
 
         
@@ -108,7 +109,25 @@
 <h1 id="2015"><a href="#2015" class="headerlink" title="2015"></a>2015</h1><p>Ofelia Cervantes, <strong>Francisco Gutiérrez,</strong> Ernesto Gutiérrez, Esteban Castillo, J. Alfredo Sánchez, and Wanggen Wan. 2015. <strong>Expression: Visualizing Affective Content from Social Streams.</strong> In Proceedings of the Latin American Conference on Human Computer Interaction (CLIHC ’15). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. doi: 10.1145/2824893.2824903</p>
 <p>Cervantes, O., <strong>Gutiérrez, F.</strong>, Gutiérrez, E., Sánchez, J.A., Rizwan, M., &amp; Wan, W. (2015). <strong>A Recommendation Engine based on Social Metrics.</strong> S4SC@ISWC.</p>
 <h1 id="2013"><a href="#2013" class="headerlink" title="2013"></a>2013</h1><p><strong>F. Gutiérrez</strong>, M. A. Abud, F. Vera and J. A. Sánchez, <strong>“Application of contextual QR codes to augmented reality technologies,”</strong> CONIELECOMP 2013, 23rd International Conference on Electronics, Communications and Computing, Cholula, 2013, pp. 264-269. doi: 10.1109/CONIELECOMP.2013.6525798</p>
-
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>
         
   </div>
 </article>
