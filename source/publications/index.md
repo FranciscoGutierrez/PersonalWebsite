@@ -2,6 +2,11 @@
 title: publications
 date: 2020-02-05 14:43:48
 ---
+
+For a more recent list of publications please also check my Google Scholar:
+
+https://scholar.google.com/citations?user=nLBUZZYAAAAJ
+
 # 2019
 
 ## Journal Articles
