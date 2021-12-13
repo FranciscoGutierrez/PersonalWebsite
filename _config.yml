@@ -95,6 +95,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: cactus
 
+theme_config:
+  colorscheme: white
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
