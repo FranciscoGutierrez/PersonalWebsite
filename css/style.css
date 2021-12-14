@@ -375,7 +375,9 @@ body strong {
 }
 body em,
 body cite {
-  font-style: italic;
+  font-style: normal;
+  font-weight: bold;
+  color: #2bbc8a;
 }
 body sup,
 body sub {
