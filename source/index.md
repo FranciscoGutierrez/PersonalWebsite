@@ -5,22 +5,13 @@ date: 2020-02-05 14:43:48
 
 # About me
 
+Hi, I am a hardworking *human-computer interaction* enthusiast with 6+ years of hands-on experience in *design*, *research*, and *engineering* in several application domains. I am eager to apply a broad set of *qualitative* and *quantitative* techniques to build *innovative* product *experiences* and drive growth. I am also a confident speaker with several *scientific publications* in international renowned journals and conferences in the field.
+
 - Postdoctoral researcher @ [KU Leuven](http://augment.cs.kuleuven.be/).
 - Human–computer interaction & information visualization.
 - PhD in Computer Science (KU Leuven, 2019)
-- Software Engineer, *Full stack developer*.
+- Software Engineer, *Full-stack developer*.
 
-# Research
+# Projects
 
-I am interested in visual analytics and communication of uncertainty, particularly, in supporting non-expert users in everyday decision-making. Also, I am researching how augmented reality can enhance the user experience on decision support systems.
-
-# Methodology
-
-I follow a design-centered approach that includes a scientific focus on a qualitative and quantitative analysis of behavior. Usually you can find me designing, developing and evaluating interactive visualization systems.
-
-# Stuff
-
-- I also like sci-fi, playing guitar, photography, and lots of video games.
-- I like to mod game boys and retro hardware in general.
-- I like new and interesting rpg boardgames.
-- I have a Youtube channel [TacoLab](https://www.youtube.com/channel/UCi1DT3PIJdtbs6T2vRhnp7w) with my buddy [Sven Charleer](http://svencharleer.com/).
+To be updated...
